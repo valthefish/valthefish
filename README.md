@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-<img width="468" height="677" alt="image" src="https://github.com/user-attachments/assets/3744ca86-b9af-42be-a8c1-c95853af179a" />
+<img width="498" height="342" alt="breadboard 2" src="https://github.com/user-attachments/assets/1d6ffb3e-601d-4a0f-afc0-64d6fc04d1d4" />
+
 
 
 ## I'm Val! I'm a mechanical engineering student and I am trying to learn coding and electronics on the side!
