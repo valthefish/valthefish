@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![desk with electronics](https://github.com/user-attachments/assets/8dc55a31-3d5e-49cf-92b7-563a58cdb6be)
+<img width="468" height="677" alt="image" src="https://github.com/user-attachments/assets/3744ca86-b9af-42be-a8c1-c95853af179a" />
 
 
 ## I'm Val! I'm a mechanical engineering student and I am trying to learn coding and electronics on the side!
