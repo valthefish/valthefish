@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-![desk with electronics](https://github.com/user-attachments/assets/84581d6a-4d59-4563-a59b-fc2646dccc1e)
+![desk with electronics](https://github.com/user-attachments/assets/8dc55a31-3d5e-49cf-92b7-563a58cdb6be)
+
 
 ## I'm Val! I'm a mechanical engineering student and I am trying to learn coding and electronics on the side!
 
