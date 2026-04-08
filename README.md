@@ -7,7 +7,7 @@
 ## I'm Val! I'm a mechanical engineering student and I am trying to learn coding and electronics on the side!
 
 _About me:_
-- 🔧 I’m currently working on setting up my page
+- 🔧 I’m currently working getting the hang of github
 - 📖 I’m currently learning how to use github and code
 - 🩷 Pronouns: she/her
 - ❇️ Fun fact: I have no idea what i am doing but that won't stop me from learning! 
