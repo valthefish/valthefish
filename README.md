@@ -11,6 +11,7 @@ _About me:_
 - 📖 I’m currently learning how to use github and code
 - 🩷 Pronouns: she/her
 - ❇️ Fun fact: I have no idea what i am doing but that won't stop me from learning! 
+
 <!--
 **valthefish/valthefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
