@@ -1,4 +1,4 @@
-<h1> Hi there!</h1>
+<h1> Hi there! 𓇼 ⋆｡˚ 𓆝⋆｡˚ 𓇼 </h1>
 
 <img width="498" height="342" alt="breadboard 2" src="https://github.com/user-attachments/assets/1d6ffb3e-601d-4a0f-afc0-64d6fc04d1d4" />
 
