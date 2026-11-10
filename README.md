@@ -8,7 +8,7 @@
 
 _About me:_
 - 🔧 I’m currently working on getting the hang of GitHub
-- 📖 I’m currently learning how to use github and code
+- 📖 I’m currently making my first project
 - 🩷 Pronouns: she/her
 - ❇️ Fun fact: I have no idea what i am doing but that won't stop me from learning! 
 
