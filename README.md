@@ -8,14 +8,12 @@
 
 _About me:_
 - 🔧 I’m currently working on getting the hang of GitHub
-- 📖 I’m currently making my first project
-- 🩷 Pronouns: she/her
-- ❇️ Fun fact: I have no idea what i am doing but that won't stop me from learning! 
+- 📖 I’m currently making a robot arm
+- ❇️ I have no idea what i am doing but that won't stop me from learning! 
 
 <!--
-**valthefish/valthefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on setting up my page
 - 🌱 I’m currently learning how to use github and code
